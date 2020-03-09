@@ -1,0 +1,10 @@
+package Creational_FactoryMethodPattern;
+
+public class DairyMilk extends Chocolate
+{
+	private int price;
+	public void getPrice()
+    {
+         price=50;           
+    }
+}

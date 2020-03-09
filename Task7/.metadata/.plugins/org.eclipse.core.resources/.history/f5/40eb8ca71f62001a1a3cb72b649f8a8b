@@ -1,0 +1,6 @@
+package Creational_FactoryMethodPattern;
+
+public abstract class Plan {
+	
+
+}

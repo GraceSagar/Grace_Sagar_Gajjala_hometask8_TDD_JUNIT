@@ -1,0 +1,5 @@
+package Creational_ProtoTypePattern;
+
+public class EmployeeRecord {
+
+}

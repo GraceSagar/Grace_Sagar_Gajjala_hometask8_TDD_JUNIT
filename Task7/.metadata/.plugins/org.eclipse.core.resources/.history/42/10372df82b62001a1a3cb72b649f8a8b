@@ -1,0 +1,5 @@
+package Behavioral_StrategyPattern;
+
+public class Addition {
+
+}
