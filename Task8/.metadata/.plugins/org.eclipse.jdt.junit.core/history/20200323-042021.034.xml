@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RemoveFirstTwoAsTest" project="task8_tdd_junit" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="RemoveFirstTwoAsTest" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]">
+    <testcase name="test_First_A_Second_A" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="test_First_A_Second_A()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_First_A_Second_A()]"/>
+    <testcase name="test_Zero_A" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="test_Zero_A()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_Zero_A()]"/>
+    <testcase name="test_First_A" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="test_First_A()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_First_A()]"/>
+    <testcase name="test_Second_A" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="test_Second_A()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_Second_A()]"/>
+    <testcase name="test_OnlyFirst2As" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.0" displayname="test_OnlyFirst2As()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_OnlyFirst2As()]"/>
+  </testsuite>
+</testrun>

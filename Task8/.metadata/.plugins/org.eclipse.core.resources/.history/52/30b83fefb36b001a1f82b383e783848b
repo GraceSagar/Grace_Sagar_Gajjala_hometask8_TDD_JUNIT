@@ -1,0 +1,20 @@
+package com.epam.task8_tdd_junit;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RemoveFirstTwoAsTest {
+	/*TODO list for my feature : remove 'A' if it is present in first two characters of the string.
+	 * 1. 1stA chars - first character of the string is A : ABCD => BCD
+	 * 2. 2ndA chars - second character of the string is A : BACD => BCD
+	 * 3. 1stA2ndA chars - first two characters of the string are A : AACD => CD
+	 * 4. 0A chars- neither of the first two characters of the string is A : BBAA => BBAA
+	 * 5. NoA chars - empty string : "" => ""
+	 */
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

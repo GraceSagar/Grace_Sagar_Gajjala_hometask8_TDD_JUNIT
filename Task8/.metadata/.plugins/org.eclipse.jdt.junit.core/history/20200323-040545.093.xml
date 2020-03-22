@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RemoveFirstTwoAsTest.test_First_A" project="task8_tdd_junit" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.069" displayname="RemoveFirstTwoAsTest" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]">
+    <testcase name="test_First_A" classname="com.epam.task8_tdd_junit.RemoveFirstTwoAsTest" time="0.069" displayname="test_First_A()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task8_tdd_junit.RemoveFirstTwoAsTest]/[method:test_First_A()]"/>
+  </testsuite>
+</testrun>

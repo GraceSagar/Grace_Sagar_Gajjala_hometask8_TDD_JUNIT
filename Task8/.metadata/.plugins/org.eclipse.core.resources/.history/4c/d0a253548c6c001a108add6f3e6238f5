@@ -1,0 +1,23 @@
+package com.epam.task8_tdd_junit;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RemoveFirstTwoAsTest {
+	/*TODO list for my feature : remove 'A' if it is present in first two characters of the string.
+	 * 1. First_A chars - first character of the string is A : ABCD => BCD
+	 * 2. Second_A chars - second character of the string is A : BACD => BCD
+	 * 3. First_A_Second_A chars - first two characters of the string are A : AACD => CD
+	 * 4. Zero_A chars- neither of the first two characters of the string is A : BBAA => BBAA
+	 * 5. No_A chars - empty string : "" => ""
+	 */
+	@Test
+	void test_First_A() 
+	{
+		RemoveFirstA firstA = new RemoveFirstA();
+		String actual = firstA.removeA("ABCD");
+		assertEquals("BCD",actual);
+	}
+
+}

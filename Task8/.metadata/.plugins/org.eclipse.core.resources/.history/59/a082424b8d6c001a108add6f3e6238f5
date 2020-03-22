@@ -1,0 +1,12 @@
+package com.epam.task8_tdd_junit;
+
+public class RemoveFirst2As 
+{
+	public String removeA(String string) 
+	{
+		// TODO Auto-generated method stub
+		
+		return null;
+	}
+
+}
